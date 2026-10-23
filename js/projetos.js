@@ -32,4 +32,20 @@ const projetos = [
     site: "https://portifolio-angular-motos.web.app/",
     github: "https://github.com/FernandoDev0/pagina-vendas-motos",
   },
+  {
+    nome: "Artesano",
+    tecnologia: "Vue.js",
+    descricao:
+      "Página de vendas de sapatos feitos à mão da Artesano, em Vue.js com TypeScript.",
+    site: "https://artesano-loja-sapatos.firebaseapp.com/",
+    github: "https://github.com/FernandoDev0/loja-sapatos-vue-js",
+  },
+  {
+    nome: "Da Fran pra Você",
+    tecnologia: "Django",
+    descricao:
+      "Página de vendas de canecas personalizadas do ateliê Da Fran pra Você, feita em Django.",
+    site: "https://canecas-da-fran-atelie.web.app/",
+    github: "https://github.com/FernandoDev0/loja-Django-caneca-personaliza",
+  },
 ];
