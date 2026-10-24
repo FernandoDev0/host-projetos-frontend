@@ -48,4 +48,12 @@ const projetos = [
     site: "https://canecas-da-fran-atelie.web.app/",
     github: "https://github.com/FernandoDev0/loja-Django-caneca-personaliza",
   },
+  {
+    nome: "Marmita Clube",
+    tecnologia: "Next.js",
+    descricao:
+      "Página de vendas de marmitas caseiras do Marmita Clube, em Next.js com TypeScript.",
+    site: "https://marmita-clube-brasil.web.app/",
+    github: "https://github.com/FernandoDev0/loja-marmita-nextjs",
+  },
 ];
